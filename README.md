@@ -1,2 +1,2 @@
 # vishal-demo
-This is for learning git &amp; github. 
+This is for learning git &amp; github tools. 
